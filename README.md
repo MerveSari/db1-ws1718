@@ -13,7 +13,7 @@ Nähere Infos zur Organisation der Übungen findet ihr
 
 # Angaben zum Team (bitte selbst ausfüllen)
 
-|   | Nachname | Vorname | Matrikelnummer | Studiengang | Studienfach (B.Sc., M.Sc, ...) |
+|   | Nachname | Vorname | Matrikelnummer | Studienfach | Studiengang (B.Sc., M.Sc, ...) |
 |---|----------|---------|----------------|-------------|--------------------------------|
 | 1.|          |         |                |             |                                |
 | 2.|          |         |                |             |                                |
