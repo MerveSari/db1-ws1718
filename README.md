@@ -15,8 +15,8 @@ Nähere Infos zur Organisation der Übungen findet ihr
 
 |   | Nachname | Vorname | Matrikelnummer | Studienfach | Studiengang (B.Sc., M.Sc, ...) |
 |---|----------|---------|----------------|-------------|--------------------------------|
-| 1.|          |         |                |             |                                |
-| 2.|          |         |                |             |                                |
+| 1.|    Sari    |    Merve     |  3963571     |     Informatik        |       B.Sc.                         |
+| 2.|    Gavriilidou   |      Athina   |      4220213          |       Bioinformatik      |         M.Sc      |
 
 # Punktestand (wird von Tutoren angepast)
 
